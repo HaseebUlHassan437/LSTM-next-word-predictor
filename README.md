@@ -20,7 +20,7 @@ Natural Language Processing (NLP) has many practical applications, and predictin
 ```bash
 next_word_predictor_using_lstm/
 │
-├── Copy_of_lstm_project.ipynb     # Main Jupyter Notebook with model training and prediction
+├── Next_word_predictor_using_lstm_project.ipynb     # Main Jupyter Notebook with model training and prediction
 ├── README.md                      # Project documentation
 ````
 
